@@ -41,5 +41,9 @@ ___
 * ##### [29 - Countdown Timer]()
 * ##### [30 - Whack A Mole]()
 ___
+### Plans for completion of the project
+
+There are 29 days (projects) left until the end of the challenge.
+___
 
 **Enjoy your viewing!**
