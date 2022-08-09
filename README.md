@@ -1,5 +1,5 @@
 # Project "30 Days JavaScript Challange"
-***[Cсылка на проект](https://loner789.github.io/30-days-js-challange)***
+***[Project link](https://loner789.github.io/30-days-js-challange)***
 ___
 ### Description
 30-day training course based on materials taken from the resource [#JavaScript30](https://JavaScript30.com).
