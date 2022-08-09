@@ -10,7 +10,7 @@ ___
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,git)](https://skills.thijs.gg)
 ___
 ### Content Overview:
-* ##### [01 - JavaScript Drum Kit]()
+* ##### [01 - JavaScript Drum Kit](https://loner789.github.io/30-days-js-challange/01-js-drum-kit/index.html)
 * ##### [02 - JS and CSS Clock]()
 * ##### [03 - CSS Variables]()
 * ##### [04 - Array Cardio Day 1]()
