@@ -11,7 +11,7 @@ ___
 ___
 ### Content Overview:
 * ##### [01 - JavaScript Drum Kit](https://loner789.github.io/30-days-js-challange/01-js-drum-kit/index.html)
-* ##### [02 - JS and CSS Clock]()
+* ##### [02 - JS and CSS Clock](https://loner789.github.io/30-days-js-challange/02-js-and-css-clock/index.html)
 * ##### [03 - CSS Variables]()
 * ##### [04 - Array Cardio Day 1]()
 * ##### [05 - Flex Panel Gallery]()
@@ -43,7 +43,7 @@ ___
 ___
 ### Plans for completion of the project
 
-There are 29 days (projects) left until the end of the challenge.
+There are 28 days (projects) left until the end of the challenge.
 ___
 
 **Enjoy your viewing!**
