@@ -13,7 +13,7 @@ ___
 * ##### [01 - JavaScript Drum Kit](https://loner789.github.io/30-days-js-challange/01-js-drum-kit/index.html)
 * ##### [02 - JS and CSS Clock](https://loner789.github.io/30-days-js-challange/02-js-and-css-clock/index.html)
 * ##### [03 - CSS Variables](https://loner789.github.io/30-days-js-challange/03-css-variables/index.html)
-* ##### [04 - Array Cardio Day 1]()
+* ##### [04 - Array Cardio Day 1](https://loner789.github.io/30-days-js-challange/04-array-cardio-day-1/index.html)
 * ##### [05 - Flex Panel Gallery]()
 * ##### [06 - Type Ahead]()
 * ##### [07 - Array Cardio Day 2]()
@@ -43,7 +43,7 @@ ___
 ___
 ### Plans for completion of the project
 
-There are 27 days (projects) left until the end of the challenge.
+There are 26 days (projects) left until the end of the challenge.
 ___
 
 **Enjoy your viewing!**
