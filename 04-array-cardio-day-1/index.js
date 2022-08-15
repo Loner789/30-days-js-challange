@@ -42,7 +42,10 @@ const inventors = [
   //   }
   // });
 
-  const ordered = inventors.sort((a, b) => a.year > b.year ? 1 : -1);
+  // const ordered = inventors.sort((a, b) => a.year > b.year ? 1 : -1);
+  // console.table(ordered);
+
+  const ordered = inventors.sort((a, b) => a.year - b.year);
   console.table(ordered);
 
   // Array.prototype.reduce()
@@ -57,7 +60,8 @@ const inventors = [
   const oldest = inventors.sort(function(a, b) {
     const lastInventor = a.passed - a.year;
     const nextInventor = b.passed - b.year;
-    return lastInventor > nextInventor ? -1 : 1;
+    // return lastInventor > nextInventor ? -1 : 1;
+    return nextInventor - lastInventor;
   });
   console.table(oldest);
 
@@ -91,4 +95,4 @@ const inventors = [
     return obj;
   }, {});
 
-  console.log(transportation);
+  console.table(transportation);
