@@ -14,7 +14,7 @@ ___
 * ##### [02 - JS and CSS Clock](https://loner789.github.io/30-days-js-challange/02-js-and-css-clock/index.html)
 * ##### [03 - CSS Variables](https://loner789.github.io/30-days-js-challange/03-css-variables/index.html)
 * ##### [04 - Array Cardio Day 1](https://loner789.github.io/30-days-js-challange/04-array-cardio-day-1/index.html)
-* ##### [05 - Flex Panel Gallery]()
+* ##### [05 - Flex Panel Gallery](https://loner789.github.io/30-days-js-challange/05-flex-panel-gallery/index.html)
 * ##### [06 - Type Ahead]()
 * ##### [07 - Array Cardio Day 2]()
 * ##### [08 - Fun with HTML5 Canvas]()
