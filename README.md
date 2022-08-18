@@ -15,7 +15,7 @@ ___
 * ##### [03 - CSS Variables](https://loner789.github.io/30-days-js-challange/03-css-variables/index.html)
 * ##### [04 - Array Cardio Day 1](https://loner789.github.io/30-days-js-challange/04-array-cardio-day-1/index.html)
 * ##### [05 - Flex Panel Gallery](https://loner789.github.io/30-days-js-challange/05-flex-panel-gallery/index.html)
-* ##### [06 - Type Ahead]()
+* ##### [06 - Type Ahead](https://loner789.github.io/30-days-js-challange/06-type-ahead/index.html)
 * ##### [07 - Array Cardio Day 2]()
 * ##### [08 - Fun with HTML5 Canvas]()
 * ##### [09 - Dev Tools Domination]()
@@ -43,7 +43,7 @@ ___
 ___
 ### Plans for completion of the project
 
-There are 26 days (projects) left until the end of the challenge.
+There are 24 days (projects) left until the end of the challenge.
 ___
 
 **Enjoy your viewing!**
