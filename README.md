@@ -16,7 +16,7 @@ ___
 * ##### [04 - Array Cardio Day 1](https://loner789.github.io/30-days-js-challange/04-array-cardio-day-1/index.html)
 * ##### [05 - Flex Panel Gallery](https://loner789.github.io/30-days-js-challange/05-flex-panel-gallery/index.html)
 * ##### [06 - Type Ahead](https://loner789.github.io/30-days-js-challange/06-type-ahead/index.html)
-* ##### [07 - Array Cardio Day 2]()
+* ##### [07 - Array Cardio Day 2](https://loner789.github.io/30-days-js-challange/07-array-cardio-day-2/index.html)
 * ##### [08 - Fun with HTML5 Canvas]()
 * ##### [09 - Dev Tools Domination]()
 * ##### [10 - Hold Shift and Check Checkboxes]()
