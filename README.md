@@ -43,7 +43,7 @@ ___
 ___
 ### Plans for completion of the project
 
-There are 24 days (projects) left until the end of the challenge.
+There are 22 days (projects) left until the end of the challenge.
 ___
 
 **Enjoy your viewing!**
