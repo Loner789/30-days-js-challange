@@ -30,7 +30,7 @@ The project was carried out in order to develop skills in working with the JavaS
 - ##### [08 - Fun with HTML5 Canvas](https://loner789.github.io/30-days-js-challange/08-fun-with-html5-canvas/index.html)
 - ##### [09 - Dev Tools Domination](https://loner789.github.io/30-days-js-challange/09-dev-tools-domination/index.html)
 - ##### [10 - Hold Shift and Check Checkboxes](https://loner789.github.io/30-days-js-challange/10-hold-shift-and-check-checkboxes/index.html)
-- ##### [11 - Custom Video Player]()
+- ##### [11 - Custom Video Player](https://loner789.github.io/30-days-js-challange/11-custom-video-player/index.html)
 - ##### [12 - Key Sequence Detection]()
 - ##### [13 - Slide in on Scroll]()
 - ##### [14 - JavaScript References VS Copying]()
@@ -55,7 +55,7 @@ The project was carried out in order to develop skills in working with the JavaS
 
 ### Plans for completion of the project
 
-There are 20 days (projects) left until the end of the challenge.
+There are 19 days (projects) left until the end of the challenge.
 
 ---
 
