@@ -32,8 +32,8 @@ The project was carried out in order to develop skills in working with the JavaS
 - ##### [10 - Hold Shift and Check Checkboxes](https://loner789.github.io/30-days-js-challange/10-hold-shift-and-check-checkboxes/index.html)
 - ##### [11 - Custom Video Player](https://loner789.github.io/30-days-js-challange/11-custom-video-player/index.html)
 - ##### [12 - Key Sequence Detection](https://loner789.github.io/30-days-js-challange/12-key-sequence-detection/index.html)
-- ##### [13 - Slide in on Scroll]()
-- ##### [14 - JavaScript References VS Copying]()
+- ##### [13 - Slide in on Scroll](https://loner789.github.io/30-days-js-challange/13-slide-in-on-scroll/index.html)
+- ##### [14 - JavaScript References VS Copying](https://loner789.github.io/30-days-js-challange/14-js-references-vs-copying/index.html)
 - ##### [15 - LocalStorage]()
 - ##### [16 - Mouse Move Shadow]()
 - ##### [17 - Sort Without Articles]()
@@ -55,7 +55,7 @@ The project was carried out in order to develop skills in working with the JavaS
 
 ### Plans for completion of the project
 
-There are 18 days (projects) left until the end of the challenge.
+There are 16 days (projects) left until the end of the challenge.
 
 ---
 
