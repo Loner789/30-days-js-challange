@@ -1,10 +1,10 @@
-const canvas = document.querySelector('#draw');
-const ctx = canvas.getContext('2d');
+const canvas = document.querySelector("#draw");
+const ctx = canvas.getContext("2d");
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
-ctx.strokeStyle = '#BADA55';
-ctx.lineJoin = 'round';
-ctx.lineCap = 'round';
+ctx.strokeStyle = "#BADA55";
+ctx.lineJoin = "round";
+ctx.lineCap = "round";
 ctx.lineWidth = 100;
 // ctx.globalCompositeOperation = 'multiply';
 
@@ -34,20 +34,18 @@ function draw(e) {
     direction = !direction;
   }
 
-  if(direction) {
+  if (direction) {
     ctx.lineWidth++;
   } else {
     ctx.lineWidth--;
   }
-
 }
 
-canvas.addEventListener('mousedown', (e) => {
+canvas.addEventListener("mousedown", (e) => {
   isDrawing = true;
   [lastX, lastY] = [e.offsetX, e.offsetY];
 });
 
-
-canvas.addEventListener('mousemove', draw);
-canvas.addEventListener('mouseup', () => isDrawing = false);
-canvas.addEventListener('mouseout', () => isDrawing = false);
+canvas.addEventListener("mousemove", draw);
+canvas.addEventListener("mouseup", () => (isDrawing = false));
+canvas.addEventListener("mouseout", () => (isDrawing = false));

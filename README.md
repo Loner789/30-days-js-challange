@@ -36,7 +36,7 @@ The project was carried out in order to develop skills in working with the JavaS
 - ##### [14 - JavaScript References VS Copying](https://loner789.github.io/30-days-js-challange/14-js-references-vs-copying/index.html)
 - ##### [15 - LocalStorage](https://loner789.github.io/30-days-js-challange/15-local-storage/index.html)
 - ##### [16 - Mouse Move Shadow](https://loner789.github.io/30-days-js-challange/16-mouse-move-shadow/index.html)
-- ##### [17 - Sort Without Articles]()
+- ##### [17 - Sort Without Articles](https://loner789.github.io/30-days-js-challange/17-sort-without-articles/index.html)
 - ##### [18 - Adding Up Times with Reduce]()
 - ##### [19 - Webcam Fun]()
 - ##### [20 - Speech Detection]()
@@ -55,7 +55,7 @@ The project was carried out in order to develop skills in working with the JavaS
 
 ### Plans for completion of the project
 
-There are 14 days (projects) left until the end of the challenge.
+There are 13 days (projects) left until the end of the challenge.
 
 ---
 
