@@ -37,10 +37,10 @@ The project was carried out in order to develop skills in working with the JavaS
 - ##### [15 - LocalStorage](https://loner789.github.io/30-days-js-challange/15-local-storage/index.html)
 - ##### [16 - Mouse Move Shadow](https://loner789.github.io/30-days-js-challange/16-mouse-move-shadow/index.html)
 - ##### [17 - Sort Without Articles](https://loner789.github.io/30-days-js-challange/17-sort-without-articles/index.html)
-- ##### [18 - Adding Up Times with Reduce]()
-- ##### [19 - Webcam Fun]()
-- ##### [20 - Speech Detection]()
-- ##### [21 - Geolocation]()
+- ##### [18 - Adding Up Times with Reduce](https://loner789.github.io/30-days-js-challange/18-adding-up-times-with-reduce/index.html)
+- ##### [19 - Webcam Fun](https://loner789.github.io/30-days-js-challange/19-webcam-fun/index.html)
+- ##### [20 - Speech Detection](https://loner789.github.io/30-days-js-challange/20-speech-detection/index.html)
+- ##### [21 - Geolocation](https://loner789.github.io/30-days-js-challange/21-geolocation/index.html)
 - ##### [22 - Follow Along Link Highlighter]()
 - ##### [23 - Speech Synthesis]()
 - ##### [24 - Sticky Nav]()
@@ -55,7 +55,7 @@ The project was carried out in order to develop skills in working with the JavaS
 
 ### Plans for completion of the project
 
-There are 13 days (projects) left until the end of the challenge.
+There are 9 days (projects) left until the end of the challenge.
 
 ---
 
