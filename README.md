@@ -41,7 +41,7 @@ The project was carried out in order to develop skills in working with the JavaS
 - ##### [19 - Webcam Fun](https://loner789.github.io/30-days-js-challange/19-webcam-fun/index.html)
 - ##### [20 - Speech Detection](https://loner789.github.io/30-days-js-challange/20-speech-detection/index.html)
 - ##### [21 - Geolocation](https://loner789.github.io/30-days-js-challange/21-geolocation/index.html)
-- ##### [22 - Follow Along Link Highlighter]()
+- ##### [22 - Follow Along Link Highlighter](https://loner789.github.io/30-days-js-challange/22-follow-along-link-highlighter/index.html)
 - ##### [23 - Speech Synthesis]()
 - ##### [24 - Sticky Nav]()
 - ##### [25 - Event Capture, Propagation, Bubbling and Once]()
@@ -55,7 +55,7 @@ The project was carried out in order to develop skills in working with the JavaS
 
 ### Plans for completion of the project
 
-There are 9 days (projects) left until the end of the challenge.
+There are 8 days (projects) left until the end of the challenge.
 
 ---
 
