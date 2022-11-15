@@ -42,20 +42,20 @@ The project was carried out in order to develop skills in working with the JavaS
 - ##### [20 - Speech Detection](https://loner789.github.io/30-days-js-challange/20-speech-detection/index.html)
 - ##### [21 - Geolocation](https://loner789.github.io/30-days-js-challange/21-geolocation/index.html)
 - ##### [22 - Follow Along Link Highlighter](https://loner789.github.io/30-days-js-challange/22-follow-along-link-highlighter/index.html)
-- ##### [23 - Speech Synthesis]()
-- ##### [24 - Sticky Nav]()
-- ##### [25 - Event Capture, Propagation, Bubbling and Once]()
-- ##### [26 - Stripe Follow Along Nav]()
-- ##### [27 - Click and Drag]()
-- ##### [28 - Video Speed Controller]()
-- ##### [29 - Countdown Timer]()
-- ##### [30 - Whack A Mole]()
+- ##### [23 - Speech Synthesis](https://loner789.github.io/30-days-js-challange/23-speech-synthesis/index.html)
+- ##### [24 - Sticky Nav](https://loner789.github.io/30-days-js-challange/24-sticky-nav)
+- ##### [25 - Event Capture, Propagation, Bubbling and Once](https://loner789.github.io/30-days-js-challange/25-event-capture-propagation-bubbling-and-once)
+- ##### [26 - Stripe Follow Along Nav](https://loner789.github.io/30-days-js-challange/26-stripe-follow-along-nav)
+- ##### [27 - Click and Drag](https://loner789.github.io/30-days-js-challange/27-click-and-drag)
+- ##### [28 - Video Speed Controller](https://loner789.github.io/30-days-js-challange/28-video-speed-controller)
+- ##### [29 - Countdown Timer](https://loner789.github.io/30-days-js-challange/29-countdown-timer)
+- ##### [30 - Whack A Mole](https://loner789.github.io/30-days-js-challange/30-whack-a-mole)
 
 ---
 
 ### Plans for completion of the project
 
-There are 8 days (projects) left until the end of the challenge.
+There challenge is completed!
 
 ---
 
