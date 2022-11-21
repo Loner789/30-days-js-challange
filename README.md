@@ -55,7 +55,7 @@ The project was carried out in order to develop skills in working with the JavaS
 
 ### Plans for completion of the project
 
-There challenge is completed!
+The challenge is completed!
 
 ---
 
